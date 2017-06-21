@@ -24,7 +24,7 @@ Curated list of awesome real-time bidding frameworks, libraries, resources and o
    
  - [AI](#ai)
         
-- [Services](#Services)
+- [Services](#services)
   - [Baas](#baas)
 - [Must see](#must-see)
   - [Blogs and Portals](#blogs-and-portals)
