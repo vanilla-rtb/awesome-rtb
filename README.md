@@ -40,31 +40,21 @@ Code
 ### Engines and Frameworks
 
 #### Engines
-
-* [RTBkit](https://github.com/rtbkit) - configurable Bidder engine supports openRTB 2.2 and non-open RTB exchanges. [open source]
-
-(https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
-* [RTB4FREE](http://www.rtb4free.com/) - Java 1.8 bidder engine. [open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [RTBkit](https://github.com/rtbkit) - configurable Bidder engine supports openRTB 2.2 and non-open RTB exchanges. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
+* [RTB4FREE](http://www.rtb4free.com/) - Java 1.8 bidder engine. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 * [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform bidder engine. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 
 
 #### Frameworks
-
-* [RTBkit](https://github.com/rtbkit) - C++11 Linux/Unix application framework for DSP and SSP. [open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
-* [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP creation. [open source]
-
-(https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [RTBkit](https://github.com/rtbkit) - C++11 Linux/Unix application framework for DSP and SSP. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP creation. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 
 #### Applications
-
-* [RTBkit](https://github.com/rtbkit) - configurable DSP application.[open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
-* [XRTB](https://github.com/benmfaul/XRTB) - Java 1.8 openRTB bidder application. [open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
-* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB DSP application.[open source]
-
-(https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [RTBkit](https://github.com/rtbkit) - configurable DSP application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
+* [XRTB](https://github.com/benmfaul/XRTB) - Java 1.8 openRTB bidder application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB DSP application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 
 ### AI
-
 * [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
 * [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 
@@ -73,9 +63,9 @@ Service
 -------
 
 ### Baas
-* [beeswax](https://www.beeswax.com/)[commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
-* [smarty ads](https://smartyads.com/)[commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
-* [Bamboo tagify](http://bamboo.taggify.net/)[commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
+* [beeswax](https://www.beeswax.com/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
+* [smarty ads](https://smartyads.com/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
+* [Bamboo tagify](http://bamboo.taggify.net/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 
 
 Must see
