@@ -74,10 +74,10 @@ Must see
 ### Blogs and Portals
 
 * [RTBkit discussion group](https://groups.google.com/a/rtbkit.org/forum/#!forum/discuss)
-* [vanilla-rtb chat chanel](https://gitter.im/vanilla-rtb/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-* [vanilla-rtb discussion groupl](https://groups.google.com/forum/#!topic/openrtb-user/DISDCWSNFIE)
-* [openRTB DEV group](https://groups.google.com/forum/#!forum/openrtb-dev)
-* [openRTB USER group](https://groups.google.com/forum/#!topic/openrtb-user)
+* [vanilla-rtb chat](https://gitter.im/vanilla-rtb/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+* [vanilla-rtb discussion](https://groups.google.com/forum/#!topic/openrtb-user/DISDCWSNFIE)
+* [openRTB development group](https://groups.google.com/forum/#!forum/openrtb-dev)
+* [openRTB user group](https://groups.google.com/forum/#!topic/openrtb-user)
 
 
 ### Books
