@@ -19,7 +19,7 @@ Curated list of awesome real-time bidding frameworks, libraries, resources and o
 - [Code](#code)
   - [Engines and Frameworks](#applications-engines-and-frameworks)
    - [Engines](#engines)
-   - [Framewroks](#frameworks)
+   - [Frameworks](#frameworks)
    - [Applications](#applications)
    
         
@@ -54,7 +54,7 @@ Code
 
 #### Frameworks
 * [RTBkit](https://github.com/rtbkit) - C++11 Linux/Unix application framework for DSP and SSP. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
-* [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP creation. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 
 
 
