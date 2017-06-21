@@ -62,7 +62,7 @@ Code
 * [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 
 
-Service
+Services
 -------
 
 ### Baas
