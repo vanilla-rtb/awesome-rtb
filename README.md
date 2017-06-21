@@ -24,7 +24,7 @@ Curated list of awesome real-time bidding frameworks, libraries, resources and o
    
         
 - [Services](#services)
-  - [Baas](#baas)
+  - [BaaS](#baas)
 - [Must see](#must-see)
   - [Blogs and Portals](#blogs-and-portals)
   - [Books](#books)
@@ -61,7 +61,7 @@ Code
 Services
 -------
 
-### BaaS ( Bidder-as-a-Service )
+### BaaS
 * [beeswax](https://www.beeswax.com/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 * [smarty ads](https://smartyads.com/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 * [Bamboo tagify](http://bamboo.taggify.net/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
