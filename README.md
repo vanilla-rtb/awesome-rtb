@@ -42,9 +42,9 @@ Code
 ### Applications Engines and Frameworks
 
 #### Applications
-* [RTBkit](https://github.com/rtbkit) - configurable DSP application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
-* [XRTB](https://github.com/benmfaul/XRTB) - Java 1.8 openRTB bidder application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
-* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB DSP application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [RTBkit](https://github.com/rtbkit) - configurable DSP application supports openRTB 2.2 and non openRTB exchanges. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
+* [XRTB](https://github.com/benmfaul/XRTB) - Java 1.8 openRTB bidder application based on RTB4FREE engine. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB bidder application based on vanilla-rtb. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 
 #### Engines
 * [RTBkit](https://github.com/rtbkit) - configurable Bidder engine supports openRTB 2.2 and non openRTB exchanges. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
