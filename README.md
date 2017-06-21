@@ -40,7 +40,7 @@ Code
 ### Engines and Frameworks
 
 #### Engines
-* [RTBkit](https://github.com/rtbkit) - configurable Bidder engine supports openRTB 2.2 and non-open RTB exchanges. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
+* [RTBkit](https://github.com/rtbkit) - configurable Bidder engine supports openRTB 2.2 and non openRTB exchanges. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
 * [RTB4FREE](http://www.rtb4free.com/) - Java 1.8 bidder engine. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 * [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform bidder engine. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 
