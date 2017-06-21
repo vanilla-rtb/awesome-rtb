@@ -22,7 +22,6 @@ Curated list of awesome real-time bidding frameworks, libraries, resources and o
    - [Framewroks](#frameworks)
    - [Applications](#applications)
    
- - [AI](#ai)
         
 - [Services](#services)
   - [Baas](#baas)
@@ -38,9 +37,14 @@ Curated list of awesome real-time bidding frameworks, libraries, resources and o
 
 Code
 ----
-*Set of RTB frameworks, engines and applcations*
+*Set of RTB applications, engines and frameworks*
 
-### Engines and Frameworks
+### Applications, Engines and Frameworks
+
+#### Applications
+* [RTBkit](https://github.com/rtbkit) - configurable DSP application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
+* [XRTB](https://github.com/benmfaul/XRTB) - Java 1.8 openRTB bidder application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB DSP application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 
 #### Engines
 * [RTBkit](https://github.com/rtbkit) - configurable Bidder engine supports openRTB 2.2 and non openRTB exchanges. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
@@ -52,14 +56,6 @@ Code
 * [RTBkit](https://github.com/rtbkit) - C++11 Linux/Unix application framework for DSP and SSP. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 * [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP creation. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 
-#### Applications
-* [RTBkit](https://github.com/rtbkit) - configurable DSP application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
-* [XRTB](https://github.com/benmfaul/XRTB) - Java 1.8 openRTB bidder application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
-* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB DSP application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
-
-### AI
-* [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
-* [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 
 
 Services
