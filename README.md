@@ -67,7 +67,7 @@ Services
 * [Bamboo tagify](http://bamboo.taggify.net/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 
 
-Must see
+Other
 --------
 *Blogs, portals, magazines and more*
 
