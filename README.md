@@ -76,7 +76,7 @@ Other
 * [RTBkit discussion group](https://groups.google.com/a/rtbkit.org/forum/#!forum/discuss)
 * [vanilla-rtb chat](https://gitter.im/vanilla-rtb/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * [openRTB development group](https://groups.google.com/forum/#!forum/openrtb-dev)
-* [openRTB user group](https://groups.google.com/forum/#!topic/openrtb-user)
+* [openRTB user group](https://groups.google.com/forum/#!forum/openrtb-user)
 
 
 ### Books
