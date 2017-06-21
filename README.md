@@ -25,7 +25,7 @@ Curated list of awesome real-time bidding frameworks, libraries, resources and o
         
 - [Services](#services)
   - [BaaS](#baas)
-- [Must see](#must-see)
+- [Other](#other)
   - [Blogs and Portals](#blogs-and-portals)
   - [Books](#books)
   - [Magazines](#magazines)
@@ -75,7 +75,6 @@ Must see
 
 * [RTBkit discussion group](https://groups.google.com/a/rtbkit.org/forum/#!forum/discuss)
 * [vanilla-rtb chat](https://gitter.im/vanilla-rtb/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-* [vanilla-rtb discussion](https://groups.google.com/forum/#!topic/openrtb-user/DISDCWSNFIE)
 * [openRTB development group](https://groups.google.com/forum/#!forum/openrtb-dev)
 * [openRTB user group](https://groups.google.com/forum/#!topic/openrtb-user)
 
