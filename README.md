@@ -17,7 +17,7 @@ Curated list of awesome real-time bidding frameworks, libraries, resources and o
 ## Table of Contents
 
 - [Code](#code)
-  - [Applications, Engines and Frameworks](#applications,-engines-and-frameworks)
+  - [Engines and Frameworks](#applications-engines-and-frameworks)
    - [Engines](#engines)
    - [Framewroks](#frameworks)
    - [Applications](#applications)
@@ -39,7 +39,7 @@ Code
 ----
 *Set of RTB applications, engines and frameworks*
 
-### Applications, Engines and Frameworks
+### Applications Engines and Frameworks
 
 #### Applications
 * [RTBkit](https://github.com/rtbkit) - configurable DSP application. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
