@@ -68,7 +68,7 @@ Services
 * [smarty ads](https://smartyads.com/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 * [Bamboo tagify](http://bamboo.taggify.net/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 ### SaaS
-* [LiquidAdX](http://www/liquidadx.com) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
+* [LiquidAdX](http://www.liquidadx.com) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 Delivers a fully customizable programmatic ad server stack system as-a-service. Everything needed to control your own programmatic advertising technology
 
 Other
@@ -82,7 +82,7 @@ Other
 * [openRTB development group](https://groups.google.com/forum/#!forum/openrtb-dev)
 * [openRTB user group](https://groups.google.com/forum/#!forum/openrtb-user)
 * [Ad Ops Insider](http://www.adopsinsider.com) - educate bidding ad ops professionals and explain the hows and whys of what happens in the trenches in this ever-changing industry.
-* [Digiday](www.digiday.com) - topics of interest to online creators including publishing, advertising and digital platform industries with an expertise
+* [Digiday](http://www.digiday.com) - topics of interest to online creators including publishing, advertising and digital platform industries with an expertise
 * [Thalamus](http://www.thalamus.co) - is a news aggregator for the media and ad tech industry. This is great if you’re in a job that requires you to stay on top of industry trends
 
 ### Books
