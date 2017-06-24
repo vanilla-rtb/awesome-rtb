@@ -25,6 +25,7 @@ Curated list of awesome real-time bidding frameworks, libraries, resources and o
         
 - [Services](#services)
   - [BaaS](#baas)
+  - [SaaS](#saas)
 - [Other](#other)
   - [Blogs and Portals](#blogs-and-portals)
   - [Books](#books)
@@ -66,7 +67,9 @@ Services
 * [beeswax](https://www.beeswax.com/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 * [smarty ads](https://smartyads.com/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 * [Bamboo tagify](http://bamboo.taggify.net/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
-
+### SaaS
+* [LiquidAdX](http://www/liquidadx.com) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
+Delivers a fully customizable programmatic ad server stack system as-a-service. Everything needed to control your own programmatic advertising technology
 
 Other
 --------
@@ -78,7 +81,9 @@ Other
 * [vanilla-rtb chat](https://gitter.im/vanilla-rtb/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * [openRTB development group](https://groups.google.com/forum/#!forum/openrtb-dev)
 * [openRTB user group](https://groups.google.com/forum/#!forum/openrtb-user)
-
+* [Ad Ops Insider](http://www.adopsinsider.com) - educate bidding ad ops professionals and explain the hows and whys of what happens in the trenches in this ever-changing industry.
+* [Digiday](www.digiday.com) - topics of interest to online creators including publishing, advertising and digital platform industries with an expertise
+* [Thalamus](http://www.thalamus.co) - is a news aggregator for the media and ad tech industry. This is great if you’re in a job that requires you to stay on top of industry trends
 
 ### Books
 
@@ -87,7 +92,9 @@ Other
 
 
 ### Videos/Podcasts
-
+* [AdExchanger Talks](https://itunes.apple.com/in/podcast/adexchanger/id1157719963?mt=2)
+* [The Digiday Podcast](https://itunes.apple.com/in/podcast/the-digiday-podcast/id962605432?mt=2)
+* [AdPipes](https://itunes.apple.com/in/podcast/the-ad-ops-podcast/id1065140357?mt=2]) - The Ad Ops Podcast, no loger updated but some useful content
 
 Learn
 -----
