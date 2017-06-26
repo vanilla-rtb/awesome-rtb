@@ -70,6 +70,7 @@ Services
 ### SaaS
 * [LiquidAdX](http://www.liquidadx.com) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
 Delivers a fully customizable programmatic ad server stack system as-a-service. Everything needed to control your own programmatic advertising technology
+* [AdSpirit](http://www.adspirit.com)  ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png) – AdServer with full OpenRTB Support for Buyside and Sellside. Become your own private DSP, SSP or AdExchange with AdSpirit Technology.
 
 Other
 --------
