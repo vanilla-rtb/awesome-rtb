@@ -56,6 +56,7 @@ Code
 
 #### Frameworks
 * [openrtb-core by google](https://github.com/google/openrtb) - Java BidRequest and BidResponse low overhead searlialization classes. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [openrtb2x] (https://github.com/openrtb/openrtb2x) - Java starter framework to get BidRequest and BidResonse without targeting or budget. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 * [RTBkit](https://github.com/rtbkit) - C++11 Linux/Unix application framework for DSP and SSP. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 * [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
 
