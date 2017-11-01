@@ -43,23 +43,23 @@ Code
 ### Applications Engines and Frameworks
 
 #### Applications
-* [Open-SSP](https://github.com/ad-tech-group/openssp) - by ATG. Open Source SSP supporting openRTB ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
-* [RTBkit](https://github.com/rtbkit) - configurable DSP application supports openRTB 2.2 and non openRTB exchanges. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
-* [XRTB](https://github.com/benmfaul/XRTB) - Java 1.8 openRTB bidder application based on RTB4FREE engine. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
-* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB bidder application based on vanilla-rtb. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [Open-SSP](https://github.com/ad-tech-group/openssp) - by ATG. Open Source SSP supporting openRTB ✊
+* [RTBkit](https://github.com/rtbkit) - configurable DSP application supports openRTB 2.2 and non openRTB exchanges. ✊
+* [XRTB](https://github.com/benmfaul/XRTB) - Java 1.8 openRTB bidder application based on RTB4FREE engine. ✊
+* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB bidder application based on vanilla-rtb. ✊
 
 #### Engines
-* [RTBkit](https://github.com/rtbkit) - configurable Bidder engine supports openRTB 2.2 and non openRTB exchanges. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
-* [RTB4FREE](http://www.rtb4free.com/) - Java 1.8 bidder engine. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
-* [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform bidder engine. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [RTBkit](https://github.com/rtbkit) - configurable Bidder engine supports openRTB 2.2 and non openRTB exchanges. ✊
+* [RTB4FREE](http://www.rtb4free.com/) - Java 1.8 bidder engine. ✊
+* [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform bidder engine. ✊
 
 
 #### Frameworks
-* [openrtb-core by google](https://github.com/google/openrtb) - Java BidRequest and BidResponse low overhead searlialization classes. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
-* [openrtb2x](https://github.com/openrtb/openrtb2x) - Java starter framework to get BidRequest and BidResonse without targeting or budget. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
-* [openrtb by BSM](https://github.com/bsm/openrtb) - Go-lang BidRequest and BidResponse serialization without targeting or budget logic. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) 
-* [RTBkit](https://github.com/rtbkit) - C++11 Linux/Unix application framework for DSP and SSP. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
-* [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP. ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png)
+* [openrtb-core by google](https://github.com/google/openrtb) - Java BidRequest and BidResponse low overhead searlialization classes. ✊
+* [openrtb2x](https://github.com/openrtb/openrtb2x) - Java starter framework to get BidRequest and BidResonse without targeting or budget. ✊
+* [openrtb by BSM](https://github.com/bsm/openrtb) - Go-lang BidRequest and BidResponse serialization without targeting or budget logic. ✊
+* [RTBkit](https://github.com/rtbkit) - C++11 Linux/Unix application framework for DSP and SSP. ✊
+* [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP. ✊
 
 
 
@@ -67,13 +67,13 @@ Services
 -------
 
 ### BaaS
-* [beeswax](https://www.beeswax.com/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
-* [smarty ads](https://smartyads.com/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
-* [Bamboo tagify](http://bamboo.taggify.net/) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
+* [beeswax](https://www.beeswax.com/) 💰
+* [smarty ads](https://smartyads.com/) 💰
+* [Bamboo tagify](http://bamboo.taggify.net/) 💰
 ### SaaS
-* [LiquidAdX](http://www.liquidadx.com) ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png)
+* [LiquidAdX](http://www.liquidadx.com) 💰
 Delivers a fully customizable programmatic ad server stack system as-a-service. Everything needed to control your own programmatic advertising technology
-* [AdSpirit](http://www.adspirit.com)  ![commercial](https://github.com/ellisonleao/magictools/blob/master/img/commercial.png) – AdServer with full OpenRTB Support for Buyside and Sellside. Become your own private DSP, SSP or AdExchange with AdSpirit Technology.
+* [AdSpirit](http://www.adspirit.com)  💰 – AdServer with full OpenRTB Support for Buyside and Sellside. Become your own private DSP, SSP or AdExchange with AdSpirit Technology.
 
 Other
 --------
