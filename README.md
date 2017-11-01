@@ -9,8 +9,8 @@ Curated list of awesome real-time bidding frameworks, libraries, resources and o
 
 ### License Legends
 
-- ![commercial](🆓https://github.com/ellisonleao/magictools/blob/master/img/commercial.png) - Paid,
-- ![limited free](https://github.com/ellisonleao/magictools/blob/master/img/limited.png) - Limited Free
+- 💰 - Paid,
+- ©️ - Limited Free
 - 🆓 - 100% Free
 - ✊ - Open Source
 
