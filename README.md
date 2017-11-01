@@ -12,7 +12,7 @@ Curated list of awesome real-time bidding frameworks, libraries, resources and o
 - ![commercial](🆓https://github.com/ellisonleao/magictools/blob/master/img/commercial.png) - Paid,
 - ![limited free](https://github.com/ellisonleao/magictools/blob/master/img/limited.png) - Limited Free
 - 🆓 - 100% Free
-- ![open source](https://github.com/ellisonleao/magictools/blob/master/img/opensource.png) - Open Source
+- ✊ - Open Source
 
 ## Table of Contents
 
