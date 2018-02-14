@@ -46,7 +46,7 @@ Code
 * [Open-SSP](https://github.com/ad-tech-group/openssp) - by ATG. Open Source SSP supporting openRTB ✊
 * [RTBkit](https://github.com/rtbkit) - configurable DSP application supports openRTB 2.2 and non openRTB exchanges. ✊
 * [XRTB](https://github.com/benmfaul/XRTB) - Java 1.8 openRTB bidder application based on RTB4FREE engine. ✊
-* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB bidder application based on vanilla-rtb. ✊
+* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB bidder model-application based on vanilla-rtb. ✊
 
 #### Engines
 * [RTBkit](https://github.com/rtbkit) - configurable Bidder engine supports openRTB 2.2 and non openRTB exchanges. ✊
@@ -60,7 +60,7 @@ Code
 * [openrtb by BSM](https://github.com/bsm/openrtb) - Go-lang BidRequest and BidResponse serialization without targeting or budget logic. ✊
 * [RTBkit](https://github.com/rtbkit) - C++11 Linux/Unix application framework for DSP and SSP. ✊
 * [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP. ✊
-
+* [vanilla-rtb/extensions](https://github.com/vanilla-rtb/extensions) - Golang code generators for vanilla-rtb matchers and language extensions (Work in progess). ✊
 
 
 Services
