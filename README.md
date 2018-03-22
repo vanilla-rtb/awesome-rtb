@@ -100,6 +100,9 @@ Other
 * [The Digiday Podcast](https://itunes.apple.com/in/podcast/the-digiday-podcast/id962605432?mt=2)
 * [AdPipes](https://itunes.apple.com/in/podcast/the-ad-ops-podcast/id1065140357?mt=2]) - The Ad Ops Podcast, no loger updated but some useful content
 
+### Articles
+* [How To Evaluate Demand-Side Platform (DSP) Companies] (http://adprofs.co/how-to-evaluate-demand-side-platform-companies)
+
 Learn
 -----
 *Online courses, tutorials, screencasts*
