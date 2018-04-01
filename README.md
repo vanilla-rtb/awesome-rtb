@@ -46,12 +46,12 @@ Code
 * [Open-SSP](https://github.com/ad-tech-group/openssp) - by ATG. Open Source SSP supporting openRTB ✊
 * [RTBkit](https://github.com/rtbkit) - configurable DSP application supports openRTB 2.2 and non openRTB exchanges. ✊
 * [XRTB](https://github.com/benmfaul/XRTB) - Java 1.8 openRTB bidder application based on RTB4FREE engine. ✊
-* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB bidder model-application based on vanilla-rtb. ✊
+* [rapid-bidder](https://github.com/vanilla-rtb/rapid-bidder) - C++14 Cross-Platform openRTB bidder model-application based on VanillaRTB. ✊
 
 #### Engines
 * [RTBkit](https://github.com/rtbkit) - configurable Bidder engine supports openRTB 2.2 and non openRTB exchanges. ✊
 * [RTB4FREE](http://www.rtb4free.com/) - Java 1.8 bidder engine. ✊
-* [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform bidder engine. ✊
+* [VanillaRTB](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform bidder engine. ✊
 
 
 #### Frameworks
@@ -59,8 +59,8 @@ Code
 * [openrtb2x](https://github.com/openrtb/openrtb2x) - Java starter framework to get BidRequest and BidResonse without targeting or budget. ✊
 * [openrtb by BSM](https://github.com/bsm/openrtb) - Go-lang BidRequest and BidResponse serialization without targeting or budget logic. ✊
 * [RTBkit](https://github.com/rtbkit) - C++11 Linux/Unix application framework for DSP and SSP. ✊
-* [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP. ✊
-* [vanilla-rtb/extensions](https://github.com/vanilla-rtb/extensions) - Golang code generators for vanilla-rtb matchers and language extensions (Work in progess). ✊
+* [VanillaRTB](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP. ✊
+* [VanillaRTB extensions](https://github.com/vanilla-rtb/extensions) - Golang code generators for vanilla-rtb matchers and language extensions (Work in progess). ✊
 
 
 Services
@@ -82,7 +82,7 @@ Other
 ### Blogs and Portals
 
 * [RTBkit discussion group](https://groups.google.com/a/rtbkit.org/forum/#!forum/discuss)
-* [vanilla-rtb chat](https://gitter.im/vanilla-rtb/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+* [VanillaRTB chat](https://gitter.im/vanilla-rtb/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * [openRTB development group](https://groups.google.com/forum/#!forum/openrtb-dev)
 * [openRTB user group](https://groups.google.com/forum/#!forum/openrtb-user)
 * [Ad Ops Insider](http://www.adopsinsider.com) - educate bidding ad ops professionals and explain the hows and whys of what happens in the trenches in this ever-changing industry.
