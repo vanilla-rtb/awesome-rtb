@@ -88,6 +88,7 @@ Other
 * [Ad Ops Insider](http://www.adopsinsider.com) - educate bidding ad ops professionals and explain the hows and whys of what happens in the trenches in this ever-changing industry.
 * [Digiday](http://www.digiday.com) - topics of interest to online creators including publishing, advertising and digital platform industries with an expertise
 * [Thalamus](http://www.thalamus.co) - is a news aggregator for the media and ad tech industry. This is great if you’re in a job that requires you to stay on top of industry trends
+* [SmartyAds blog](https://smartyads.com/blog) - blog for different advertising technologies and different ways of content monetization
 
 ### Books
 
