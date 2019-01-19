@@ -55,6 +55,7 @@ Code
 
 
 #### Frameworks
+* [blockchains for openRTB](https://github.com/vanilla-rtb/blockchainilla) - integration of real-time bidding framework vanilla-rtb with blockchains ✊
 * [openrtb-core by google](https://github.com/google/openrtb) - Java BidRequest and BidResponse low overhead searlialization classes. ✊
 * [openrtb2x](https://github.com/openrtb/openrtb2x) - Java starter framework to get BidRequest and BidResonse without targeting or budget. ✊
 * [openrtb by BSM](https://github.com/bsm/openrtb) - Go-lang BidRequest and BidResponse serialization without targeting or budget logic. ✊
