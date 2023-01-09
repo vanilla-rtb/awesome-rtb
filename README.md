@@ -58,6 +58,8 @@ Code
 * [blockchains for openRTB](https://github.com/vanilla-rtb/blockchainilla) - integration of real-time bidding framework vanilla-rtb with blockchains ✊
 * [openrtb-core by google](https://github.com/google/openrtb) - Java BidRequest and BidResponse low overhead searlialization classes. ✊
 * [openrtb2x](https://github.com/openrtb/openrtb2x) - Java starter framework to get BidRequest and BidResonse without targeting or budget. ✊
+* [Prebid Server](https://github.com/prebid/prebid-server) - an open source implementation of Server-Side Header Bidding.  Go-lang.
+* [prebid/openrtb](https://github.com/prebid/openrtb) - Go-lang BidRequest and BidResponse DTOs from Prebid Sever ✊
 * [openrtb by BSM](https://github.com/bsm/openrtb) - Go-lang BidRequest and BidResponse serialization without targeting or budget logic. ✊
 * [RTBkit](https://github.com/rtbkit) - C++11 Linux/Unix application framework for DSP and SSP. ✊
 * [vanilla-rtb](https://github.com/venediktov/vanilla-rtb) - C++14 Cross-Platform application framework for DSP. ✊
