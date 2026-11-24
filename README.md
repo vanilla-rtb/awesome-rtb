@@ -75,6 +75,8 @@ Services
 * [LiquidAdX](http://www.liquidadx.com) 💰
 Delivers a fully customizable programmatic ad server stack system as-a-service. Everything needed to control your own programmatic advertising technology
 * [AdSpirit](http://www.adspirit.com)  💰 – AdServer with full OpenRTB Support for Buyside and Sellside. Become your own private DSP, SSP or AdExchange with AdSpirit Technology.
+* [AdOpsBox OpenRTB Validator](https://adopsbox.com/ortb-validator/) 🆓 – Free in-browser validator for OpenRTB 2.5 / 2.6 bid requests: spec errors, buyer-readiness checks and auto-fixes.
+* [AdOpsBox VAST Inspector](https://adopsbox.com/vast-inspector/) 🆓 – Free VAST tag checker that follows wrapper chains, flags errors and tests media playback.
 
 Other
 --------
